@@ -20,8 +20,8 @@
 
 | 功能 | 快捷键 |
 | --- | --- |
-| 触发输入 | `Ctrl + Alt + V` |
-| 退出程序 | `Ctrl + Alt + Shift + Q` |
+| 触发输入 | `Ctrl + Shift + V` |
+| 退出程序 | `Ctrl + Alt + Q` |
 
 快捷键可在 `config.json` 中修改。
 
